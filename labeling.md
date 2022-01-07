@@ -1,4 +1,4 @@
-# Labeling and training from scratch
+# Activity 1: Labeling and training from scratch
 
 **Note:** If you haven't already, make sure you followed the instructions on **[setting up](setup.md)** before you get started.
 
@@ -125,3 +125,13 @@ Once imported, you'll see the predicted instances show up as yellow on your unla
 ![Predicted instances](images/predicted-instances.png)
 
 Now, you can just double click on a predicted instance to create a new ground truth instance that you can correct by dragging and dropping.
+
+After doing more labeling, you'll be ready to train a new model with the larger dataset. Repeat this process until the predictions are sufficiently accurate -- this is typically around 100-200 labeled frames, with additional labels improving accuracy with diminishing returns.
+
+## Next steps
+
+- Continue to [Activity 2: Tracking and inspecting predictions](inference.md).
+
+- Learn more about [**model selection and configuration**](https://sleap.ai/guides/choosing-models.html).
+
+- See [this notebook](https://sleap.ai/notebooks/Model_evaluation.html) for more on **model evaluation**.
