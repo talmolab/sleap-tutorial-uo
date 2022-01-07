@@ -92,6 +92,7 @@ From the CLI, we can export it using the [`sleap-convert`](https://sleap.ai/guid
 ```
 sleap-convert -o data/predictions.analysis.h5 --format analysis data/predictions.slp
 ```
+This will save our analysis HDF5 file to `data/predictions.analysis.h5` which can now be used anywhere.
 
 ## Next steps
 
