@@ -104,7 +104,7 @@ Once configured, we're ready to train!
 
 **If you don't have a GPU**, click **Export training job package...** which will generate a ZIP file with all of the required data and configuration to train on Google Colab.
 
-After saving it, use [this notebook](sleap_colab_workflow.ipynb) to train on Colab or simply click: "<a href="https://colab.research.google.com/github/talmolab/sleap-tutorial-uo/blob/main/sleap_colab_workflow.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+After saving it, use [this notebook](sleap_colab_workflow.ipynb) to train on Colab or simply click: <a href="https://colab.research.google.com/github/talmolab/sleap-tutorial-uo/blob/main/sleap_colab_workflow.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 6. Correcting predictions
 

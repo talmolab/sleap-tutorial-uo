@@ -19,7 +19,7 @@ This can be started with this command which will open a new browser window with 
 jupyter lab
 ```
 
-Once it's open, you can follow along in the [`interactive_analysis.ipynb` notebook](interactive_analysis.ipynb).
+Once it's open, you can follow along in the [`interactive_analysis.ipynb` notebook](interactive_analysis.ipynb) locally or on Google Colab: <a href="https://colab.research.google.com/github/talmolab/sleap-tutorial-uo/blob/main/interactive_analysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>.
 
 ## Next steps
 
